@@ -8,7 +8,7 @@ I am passsionate about ai and trying to be best at coding
 ## 🛠 Skills
 machine loearning , deep learning , nlp . data mining
 ## 🚀 About Me
-I'm a full stack developer...
+I'm leveling up in coding to actually max it.
 
 
 
